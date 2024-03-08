@@ -1,0 +1,13 @@
+{
+    "odata": {
+        "flavor": "x4"
+      },
+      "requires": {
+        "iflow": {
+          "kind": "rest",
+          "credentials": {
+            "url": "https://819a0390trial-dev-fragment-exercise1-srv.cfapps.us10-001.hana.ondemand.com"
+          }
+        }
+    }
+}
